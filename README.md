@@ -1,3 +1,5 @@
 # Baekjoon Online Judge
 
-[![Baekjoon Stats](https://github-readme-baekjoon.vercel.app/api?handle=qmqqqqm)](https://www.acmicpc.net/user/qmqqqqm)
+![Baekjoon Stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=qmqqqqm)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungi-park&layout=compact&exclude_repo=python-algorithm)
